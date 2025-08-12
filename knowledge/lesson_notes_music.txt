@@ -1,0 +1,19 @@
+Lesson Topic: Introduction to Musical Notes
+
+Notes:
+- Musical notes are symbols representing the pitch and duration of a sound.
+- The seven natural notes are: A, B, C, D, E, F, G.
+- Notes can be sharp (#) or flat (♭) to indicate pitch changes.
+- A staff is a set of five lines where notes are written.
+- The treble clef and bass clef indicate the pitch range of the notes.
+- Whole notes, half notes, quarter notes, and eighth notes have different durations.
+- Tempo tells how fast or slow the music should be played.
+
+Key Vocabulary:
+- Note
+- Sharp
+- Flat
+- Staff
+- Treble clef
+- Bass clef
+- Tempo

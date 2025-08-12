@@ -1,0 +1,18 @@
+Lesson Topic: Introduction to Fractions
+
+Notes:
+- A fraction represents a part of a whole.
+- A fraction has two parts: numerator (top) and denominator (bottom).
+- Example: 1/2 means one part out of two equal parts.
+- Proper fractions: numerator < denominator.
+- Improper fractions: numerator > denominator.
+- Mixed numbers combine a whole number and a fraction.
+- Adding fractions with the same denominator: add numerators, keep denominator.
+- Converting improper fractions to mixed numbers: divide numerator by denominator.
+
+Key Vocabulary:
+- Numerator
+- Denominator
+- Proper fraction
+- Improper fraction
+- Mixed number

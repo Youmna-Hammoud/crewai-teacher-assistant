@@ -1,0 +1,30 @@
+.env
+__pycache__/
+.DS_Store
+.venv
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# CrewAI output files (optional, if you want to ignore generated files)
+*.json
+*.md
+
+# Logs
+*.log
