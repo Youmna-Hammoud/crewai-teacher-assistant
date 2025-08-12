@@ -22,9 +22,7 @@ Thumbs.db
 .vscode/
 .idea/
 
-# CrewAI output files (optional, if you want to ignore generated files)
-*.json
-*.md
+
 
 # Logs
 *.log

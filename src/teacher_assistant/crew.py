@@ -53,7 +53,7 @@ class TeacherAssistant():
     def parse_notes(self) -> Task:
         return Task(
             config=self.tasks_config['parse_notes'], # type: ignore[index]
-            output_file='parsed_notes.md'
+            output_file='parsed_notes.json'
         )
 
     @task
